@@ -2,7 +2,7 @@
 
 ## ✨ 웹사이트 바로가기
 
- ![와이스튜디오](https://imgur.com/pZPqgR8)
+ ![와이스튜디오](https://imgur.com/a/aDO3CXb)
 
 
 (
