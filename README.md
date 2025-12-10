@@ -6,7 +6,7 @@
 
 
 (
-    https://github.com/jungsojin12/Ystudio.git
+    https://jungsojin12.github.io/Ystudio/
 )
 
 ---
