@@ -9,6 +9,11 @@
     https://jungsojin12.github.io/Ystudio/
 )
 
+피그마 랜딩페이지
+
+![피그마 랜딩페이지](https://i.imgur.com/AyvE10d.png)
+
+
 ---
 
 ### 💡 사용 기술
